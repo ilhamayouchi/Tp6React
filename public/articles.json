@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "Découvrir les bases de React" },
+  { "id": 2, "title": "Comprendre les composants et les props" },
+  { "id": 3, "title": "Gérer l’état avec useState" },
+  { "id": 4, "title": "Pourquoi utiliser useEffect ?" },
+  { "id": 5, "title": "Les formulaires contrôlés expliqués" },
+  { "id": 6, "title": "Naviguer avec React Router" },
+  { "id": 7, "title": "Partager des données grâce au contexte" },
+  { "id": 8, "title": "useReducer : quand l’utiliser ?" },
+  { "id": 9, "title": "Manipuler le DOM avec useRef" },
+  { "id": 10, "title": "Créer son premier hook personnalisé" },
+  { "id": 11, "title": "Afficher une liste avec map()" },
+  { "id": 12, "title": "Le rendu conditionnel en pratique" },
+  { "id": 13, "title": "Les clés dans les listes : à quoi servent-elles ?" },
+  { "id": 14, "title": "Récupérer des données depuis une API" },
+  { "id": 15, "title": "Organiser les dossiers d’un projet React" },
+  { "id": 16, "title": "Les composants d’ordre supérieur (HOC)" },
+  { "id": 17, "title": "Le pattern Render Props" },
+  { "id": 18, "title": "Tester ses composants avec Testing Library" },
+  { "id": 19, "title": "Styliser une application React" },
+  { "id": 20, "title": "Déployer son application en ligne" }
+]
